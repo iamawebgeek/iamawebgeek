@@ -18,7 +18,7 @@ I dive deep into **frontend architectures, developer tooling, and system design*
 
 ## 🔧 Tech I Use
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,nestjs,prisma,postgres,tailwind,vite,vitest,docker,terraform" />
+  <img src="https://skillicons.dev/icons?i=ts,react,redux,nextjs,tailwind,graphql,apollo,nodejs,nestjs,rxjs,prisma,postgres,docker,gcp,terraform" />
 </p>
 
 ---
